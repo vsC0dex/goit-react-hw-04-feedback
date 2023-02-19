@@ -17,10 +17,10 @@ export default function Statistics({ statData, total, positive }) {
       </StatList>
       <StatList>
         <StatItem>
-          <span>Total:</span> {total}
+          <span>Total :</span> {total}
         </StatItem>
         <StatItem>
-          <span>Positive:</span> {positive}%
+          <span>Positive :</span> {positive}%
         </StatItem>
       </StatList>
     </>
